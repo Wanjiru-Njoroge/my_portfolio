@@ -1,4 +1,6 @@
 Project Title: Interactive Timeline and Responsive Web Design
+
+
 Overview
 
 This project is a personal portfolio website for Cameline Njoroge, a web developer and content creator. The website showcases Cameline's skills, projects, and provides a means for potential employers or collaborators to get in touch.
@@ -61,3 +63,6 @@ For any inquiries or suggestions regarding this project, please contact Cameline
 
 Email: camelinenjoroge@gmail.com
 GitHub: github.com/Wanjiru-Njoroge
+
+To access the website visit 
+camelines-portfolio.netlify.app
